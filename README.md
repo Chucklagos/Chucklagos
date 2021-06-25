@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi! 👋, my name is Chuck, I am a systems engineering student, self-taught in various topics of technology and someone who likes to break things (with the aim of learning of course 😂).
+
+| <img src="src/tenor.gif" style="zoom: 50%;" /> | 🌱 I'm currently learning web development & Databases |
+| ---------------------------------------------- | ---------------------------------------------------- |
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chucklagos&layout=compact" alt="Top Langs"  />
+
+
 
 <!--
 **Chucklagos/Chucklagos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

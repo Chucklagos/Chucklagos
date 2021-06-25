@@ -2,11 +2,11 @@
 
 **I am a systems engineering student, self-taught in various topics of technology and someone who likes to break things (with the aim of learning of course 😂).**
 
-<img src="src/tenor.gif" style="zoom: 33%;" /> 
+| <img src="src/tenor.gif" style="zoom: 33%;" /> | **🌱 I'm currently learning web development and databases** |
+| :--------------------------------------------: | :--------------------------------------------------------: |
 
-**🌱 I'm currently learning web development and databases**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chucklagos&layout=compact" alt="Top Langs"  />
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chucklagos&layout=compact" alt="Top Langs"  /> |
+| :----------------------------------------------------------: |
 
 
 

@@ -1,12 +1,5 @@
-### Hello there! 👋
-
 | <img src="src/tenor.gif"  /> | I am a systems engineering student, self-taught in various topics of technology and someone who likes to break things (with the aim of learning of course 😂). |
 | :--------------------------: | :----------------------------------------------------------: |
-
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chucklagos&layout=compact" alt="Top Langs"  /> |
-| :----------------------------------------------------------: |
-
-
 
 <!--
 **Chucklagos/Chucklagos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

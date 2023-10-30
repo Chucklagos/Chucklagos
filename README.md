@@ -15,7 +15,7 @@ A self-taught learner and tech enthusiast, I love deconstructing things to see h
 
 💬 **Ask me about:** My favorite debugging stories, my latest tech experiments, or anything related to web development and databases. I’m always up for a good tech talk!
 
-📫 **How to reach me:** Feel free to drop me a message here, or reach out to me via [LinkedIn](#) (Add your LinkedIn Profile link here). I’m always open to connecting with fellow tech enthusiasts and learners.
+📫 **How to reach me:** Feel free to drop me a message here, or reach out to me via [LinkedIn](https://www.linkedin.com/in/chucklagos/) (Add your LinkedIn Profile link here). I’m always open to connecting with fellow tech enthusiasts and learners.
 
 😄 **Pronouns:** He/Him
 

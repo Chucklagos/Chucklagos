@@ -1,44 +1,67 @@
-**Hello there!** 👋
+# Chuck Guifarro Lagos
 
-**My name is Chuck, I'm a developer with a diverse skill set in programming, web design, mobile app development, and OS management. I’m adept at software installation and configuration.
-A self-taught learner and tech enthusiast, I love deconstructing things to see how they work—always for the sake of learning and innovation! 😂**
+**Systems & Web Engineer | Technical Coordinator**
 
-----
+I build, deploy, maintain, and improve web platforms — and the infrastructure that keeps them running.
 
-🔭 **I’m currently working on:** Enhancing my skills in CMS development with Drupal and Wordpress, while also refining my HTML/CSS and PHP coding chops.
+[Website](https://chucklagos.dev/) · [LinkedIn](https://www.linkedin.com/in/chucklagos/) · [Technical blog](https://chucklagos.dev/blog/)
 
-🌱 **I’m currently learning:** Advanced frameworks in PHP like Laravel and CodeIgniter, which have been both challenging and rewarding. I’m enjoying every step of this journey!
+## About Me
 
-👯 **I’m looking to collaborate on:** Projects that push my boundaries and help me grow. I’m all about learning through doing, and what better way to do that than collaborating with fellow tech enthusiasts?
+I'm Chuck, a systems engineer with 4+ years of professional experience working across web development, Linux infrastructure, and production support. I like understanding how the pieces fit together: the application, the server, the deployment, and the people keeping it all moving.
 
-🤔 **I’m looking for help with:** Navigating the intricacies of PHP frameworks and understanding the best practices in web development. If you’ve got tips, tricks, or advice, I’m all ears!
+I've contributed to 30+ websites, administered multiple server environments, and coordinated technical teams of 4–8 people while staying hands-on. I hold a degree in Systems Engineering and am pursuing a master's in Artificial Intelligence.
 
-💬 **Ask me about:** My favorite debugging stories, my latest tech experiments, or anything related to web development and databases. I’m always up for a good tech talk!
+## What I Do
 
-📫 **How to reach me:** Feel free to drop me a message here, or reach out to me via [LinkedIn](https://www.linkedin.com/in/chucklagos/). I’m always open to connecting with fellow tech enthusiasts and learners.
+- **Web Development** — Build and maintain Drupal, WordPress, and Astro platforms, including API integrations.
+- **Linux & Infrastructure** — Configure web services, manage servers, and handle deployments and migrations.
+- **Production & IT Support** — Diagnose incidents, troubleshoot platform issues, and keep services running.
+- **Technical Coordination** — Clarify requirements, help shape technical decisions, review deliverables, and coordinate delivery.
+- **Automation & Applied AI** — Use scripts to simplify practical tasks and experiment with AI integrations.
 
-😄 **Pronouns:** He/Him
+## Technical Toolkit
 
-⚡ **Fun fact:** I believe that the best way to learn is by breaking things apart, and yes, I’ve broken quite a few things in my tech journey so far. But hey, it’s all part of the learning process, right?
+Technologies I use across professional and independent work:
 
-**Let’s keep breaking things and learning together!** 🛠️💻
+**Web**<br>
+Drupal · WordPress · PHP · JavaScript · Astro · HTML/CSS · Tailwind CSS · Bootstrap · REST APIs
 
-![Chuck's Animated Welcome](src/tenor.gif)
+**Systems & Infrastructure**<br>
+Linux (Ubuntu, AlmaLinux) · Apache · Nginx · Docker · Cloudflare · cPanel/WHM · SSH · DNS · SSL/TLS
 
+**Databases**<br>
+MySQL · MariaDB · PostgreSQL · SQL
 
----
+**Automation & Tools**<br>
+Git · GitHub · Bash · Python
 
-<!--
-**Chucklagos/Chucklagos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Experiments & Learning**<br>
+Ollama · OpenWebUI · FastAPI · Local LLMs · n8n · Self-hosted AI services
 
-Here are some ideas to get you started:
+## Currently Exploring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm growing my skills in DevOps and cloud infrastructure, infrastructure automation, and containerized, self-hosted services. I'm also exploring local LLM integrations, Linux server hardening and cybersecurity, and building independent software products.
+
+## Projects & Experiments
+
+- **Local AI environment** — A learning setup with Ollama, OpenWebUI, and Docker, plus a FastAPI layer to explore model access, authentication, reverse proxies, and HTTPS.
+- **[Worship Planning](https://github.com/Chucklagos/Worship-Planning)** — An earlier university project for church management and planning, built with PHP, JavaScript, Bootstrap, and MySQL.
+
+For selected client work and my full professional background, visit [my portfolio](https://chucklagos.dev/).
+
+## Technical Notes
+
+My [technical blog](https://chucklagos.dev/blog/) is a practical notebook: commands, configurations, troubleshooting lessons, and things I'm learning about Linux, infrastructure, web development, and security.
+
+## The Human Behind the Code
+
+Reading the logs after saying, “That should be a quick fix.”
+
+<img src="src/tenor.gif" width="280" alt="Courage the Cowardly Dog working frantically at a computer">
+
+## Connect
+
+Have a platform to build, a Linux problem to untangle, or an experiment to share? Let's talk through [LinkedIn](https://www.linkedin.com/in/chucklagos/) or [my website](https://chucklagos.dev/).
+
+<sub>U.S. citizen, authorized to work in the United States. Open to remote and international opportunities, including relocation.</sub>
